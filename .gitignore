@@ -1,0 +1,5 @@
+.env
+*.pdf
+ATTACH
+data.csv
+compose.md
